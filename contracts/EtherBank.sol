@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.11;
 
+
+// Let's scan this!
 contract EtherBank {
 
     mapping(address => uint256) public balances;
